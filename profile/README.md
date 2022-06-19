@@ -6,7 +6,7 @@
 
 Turbo ETH accelerates Web3 development with a powerful, yet minimal monorepo architecture. The `turbo-eth` monorepo is a high-performance Ethereum Application build system; with ready-to-go Web3 code templates.
 
-- Frontend Application ([RainbowKit](https://www.rainbowkit.com/))
+- Frontend Application ([RainbowKit](https://www.rainbowkit.com/) + Next + Tailwind + Typescript)
 - Smart Contract Templates ([PoolTogether](https://github.com/pooltogether/pooltogether-contracts-template))
 - Zero-config TypeScript package development ([TSDX](https://tsdx.io/))
 
