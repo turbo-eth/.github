@@ -4,15 +4,25 @@
 ![TS](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 [![GPLv3 license](https://img.shields.io/badge/License-MIT-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-Turbo ETH accelerates Web3 development with a powerful, yet minimal monorepo architecture. The `turbo-eth` monorepo is a high-performance Ethereum Application build system; with ready-to-go Web3 code templates.
+Turbo ETH accelerates Web3 development with a powerful Web dApp toolkit:
 
-- Frontend Application ([RainbowKit](https://www.rainbowkit.com/) + Next + Tailwind + Typescript)
-- Smart Contract Templates ([PoolTogether](https://github.com/pooltogether/pooltogether-contracts-template))
-- Zero-config TypeScript package development ([TSDX](https://tsdx.io/))
+**🏗️<br/> TurboRepo + pNPM<br/>**
+High-performance build system and a fast, disk space efficient package manager.
 
-**System Features:**
-- Monorepo Architecture
-- Incremental builds
-- Content Aware Hashing
-- Parallel execution
-- Task pipelines
+**🌈<br/> Rainbow + WAGMI** <br/>
+Streamlined wallet integration and ready-to-go WAGMI component catalog.
+
+
+**🏖️<br/> Smart Contract Kit** <br/>
+Opinionated smart contract boilerplate with testing, linting, forking, and more.
+
+**Includes the Ethereum developes you know and love:**
+
+- Hardhat + Foundry
+- Jest and Mocha Testing
+- RainbowKit + Tailwind + Next
+- Zero-Config TypeScript Modules
+- ESLint/Prettier
+- Github Workflows
+- Task Pipelines
+- Parallel Execution
