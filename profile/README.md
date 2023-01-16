@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/3408362/174462135-3aaeefba-554a-40d7-bd58-f58bf20725cb.png)
+![banner](https://user-images.githubusercontent.com/3408362/212647352-4c6e8683-d38f-414f-9d9d-3d55babb8d05.png)
 
 | **🏗️ TurboRepo + pNPM<br/>**  | **🌈 Rainbow + WAGMI** | **📝 Smart Contract Kit** |
 |---|---|---|
